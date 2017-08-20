@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\bin\Debug\hmwrk.exe.config
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\bin\Debug\hmwrk.exe
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\bin\Debug\hmwrk.pdb
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\obj\Debug\hmwrk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\obj\Debug\hmwrk.exe
+c:\users\user\documents\visual studio 2017\Projects\hmwrk\hmwrk\obj\Debug\hmwrk.pdb
